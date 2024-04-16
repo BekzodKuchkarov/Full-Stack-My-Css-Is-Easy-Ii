@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align:center;
+  }
+  h1,
+  h2,
+  h3 {
+    margin-top: 25px;
+  }
+  .header-box-K {
+    background-color: orange;
+    font-weight: bold;
+    height: 100px;
+  }
+  
+  .main-box-A{
+    background-color: blue;
+    height: 100px;
+  }
+  
+  .sidebar-box-R{
+    background-color: red;
+    height: 100px;
+  }
+  
+  .footer-box-M {
+    background-color: green;
+    height: 100px;
+  }
